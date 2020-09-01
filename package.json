@@ -1,7 +1,7 @@
 {
   "name": "create-mercedui-app",
   "version": "1.0.0",
-  "description": "This is a command-line tool for generating AMPonent Projects.",
+  "description": "This is a command-line tool for generating MercedUI Projects.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,13 +11,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AlexMercedCoder/create-amponent-app.git"
+    "url": "git+https://github.com/AlexMercedCoder/create-mercedui-app.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/AlexMercedCoder/create-amponent-app/issues"
+    "url": "https://github.com/AlexMercedCoder/create-mercedui-app/issues"
   },
-  "homepage": "https://github.com/AlexMercedCoder/create-amponent-app#readme"
+  "homepage": "https://github.com/AlexMercedCoder/create-mercedui-app#readme"
 }
